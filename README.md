@@ -9,7 +9,7 @@
 
 Desde sempre encantado por desafios tecnológicos, em migração profissional de uma carreira de 23 anos atuando como Técnico em Telecom, onde passei por desafios desde a instalação, manutenção e desconexão dos serviços. Buscando me atualizar com cursos e vivencia em campo cheguei a liderança e coordernação de equipes, agora desejo agregar a minha bagagem profissional o Desenvolvimento Web Fullstack a Analise e Desenvolvimento de Sistemas e o Desenvolvimento de Games.
 
-Sou o pai do Thomaz e esposo da Karen, apaixonado por minha família e o mundo dos games, atualmente muito interessado em aprender mais sobre Inteligência Artificial (AI).
+Sou o pai do Thomaz e esposo da Karen, apaixonado por minha família e o mundo dos games, atualmente estou muito interessado em aprender mais sobre Inteligência Artificial (AI).
 
 Alguém ai falou em café ou energético???
 </p>
