@@ -2,32 +2,30 @@
 
 <h1 align="center">Hello World 👋, I'm Carlos Fernandes</h1>
 
-<h1> Quem sou? </h1>
+<h1 align="center"> Quem sou? </h1>
 <p>
 Desde sempre encantado por desafios tecnológicos, em migração profissional de uma carreira de 23 anos atuando como Técnico em Telecom, onde passei por desafios desde a instalação, manutenção e desconexão dos serviços. Buscando me atualizar com cursos e vivencia em campo cheguei a liderança e coordernação de equipes, agora desejo agregar a minha bagagem profissional o Desenvolvimento Web Fullstack a Analise e Desenvolvimento de Sistemas e o Desenvolvimento de Games.
 
 Sou o pai do Thomaz e esposo da Karen, apaixonado por minha família e o mundo dos games, atualmente estou muito interessado em aprender mais sobre Inteligência Artificial (AI).
 
-Alguém ai falou em café ou energético???
+☕Alguém ai falou em café ou energético???
 </p>
 
-<div>
+<h1 align="center">Minhas Estatísticas</h1>
+<div align="center">
   <a href="https://github.com/crfernandes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=crfernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crfernandes&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  
-<p><strong>Linguagens que domino:</strong></p>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
+🎯<p><strong>Linguagens que mando bem:</strong></p>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="CarlosJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  
+
 ##
-  
+
 <div align="center">
   <a href="https://www.youtube.com/channel/UCRc42e0mBWhqzx1SXPRv8PQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/matador.gg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
