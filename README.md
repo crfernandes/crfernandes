@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World 👋, I'm Carlos Fernandes</h1>
 
-<h1 align="center"> Quem sou</h1>
+<h1 align="center"> Quem sou?</h1>
 <p>
 Desde sempre encantado por desafios tecnológicos, em migração profissional de uma carreira de 23 anos atuando como Técnico em Telecom, onde passei por desafios desde a instalação, manutenção e desconexão dos serviços. Buscando me atualizar com cursos e vivencia em campo cheguei a liderança e coordernação de equipes, agora desejo agregar a minha bagagem profissional o Desenvolvimento Web Fullstack a Analise e Desenvolvimento de Sistemas e o Desenvolvimento de Games.
 
