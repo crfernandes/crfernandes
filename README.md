@@ -8,7 +8,7 @@ Desde sempre encantado por desafios tecnológicos, em migração profissional de
 
 Sou o pai do Thomaz (meu parceiro de projetos), esposo da Karen, sou apaixonado por minha família e o mundo dos games, atualmente estou muito interessado em aprender mais sobre Inteligência Artificial (AI).
 
-Alguém ai falou em café ou energético???
+Alguém ai falou em café ou energético?
 </p>
 
 <h1 align="center">Minhas Estatísticas</h1>
