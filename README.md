@@ -5,6 +5,7 @@
 <h1 align="center"> Quem sou?</h1>
 <p>
 Desde sempre encantado por desafios tecnológicos, em migração profissional de uma carreira de 23 anos atuando como Técnico em Telecom, onde passei por desafios desde a instalação, manutenção e desconexão dos serviços. Buscando me atualizar com cursos e vivencia em campo cheguei a liderança e coordernação de equipes.
+
 Agora estou agregando a minha bagagem acadêmica e profissional os cursos de Desenvolvimento Web Fullstack,  Analise e Desenvolvimento de Sistemas, Desenvolvimento de Games e de Cyber security.
 
 Sou o pai do Thomaz (meu parceiro de projetos), esposo da Karen, sou apaixonado por minha família e o mundo dos games, atualmente estou muito interessado em aprender mais sobre Inteligência Artificial (AI).
